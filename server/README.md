@@ -1,0 +1,1 @@
+Server side project. Remove when will be created new project.
