@@ -1,1 +1,0 @@
-Client side project. Remove it when create new project.
